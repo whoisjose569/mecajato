@@ -1,7 +1,7 @@
 
 # MecaJato
 
-Aplicação para OFICINAS e LAVAJATOS desenvolvida com python e django
+Aplicação para OFICINAS e LAVAJATOS desenvolvida com python e django.
 
 
 ## Autores
